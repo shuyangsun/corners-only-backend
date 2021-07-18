@@ -4,4 +4,4 @@ cmake_minimum_required(VERSION 3.10)
 project(CornersOnly)
 
 # add the executable
-add_executable(CornersOnly main.c)
+add_executable(CornersOnly src/main.c)
